@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Download.Application/Download.Application.csproj" />
+  <Project Path="Download.CrossCutting/Download.CrossCutting.csproj" />
+  <Project Path="Download.Domain/Download.Domain.csproj" />
+  <Project Path="Download.Infrastructure/Download.Infrastructure.csproj" />
+  <Project Path="DownloadApi/DownloadApi.csproj" />
+</Solution>

@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net11.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+	<ItemGroup>
+
+		<PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="4.1.0.3" />
+		<PackageReference Include="AWSSDK.S3" Version="4.1.2" />
+
+
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="11.0.0" />
+
+
+		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="11.0.0" />
+
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="11.0.0">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+
+		<PackageReference Include="Microsoft.Extensions.Caching.StackExchangeRedis" Version="11.0.0" />
+		<PackageReference Include="Microsoft.Graph" Version="6.11.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="11.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="11.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="11.0.1" />
+		<PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="11.0.1" />
+
+	</ItemGroup>
+
+
+
+
+</Project>

@@ -1,0 +1,582 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.application\\dtos\\gametagmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|solutionrelative:download.application\\dtos\\gametagmodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.application\\dtos\\gamemodeldtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|solutionrelative:download.application\\dtos\\gamemodeldtocreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.application\\dtos\\gamemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|solutionrelative:download.application\\dtos\\gamemodeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.application\\mappings\\domaintodtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|solutionrelative:download.application\\mappings\\domaintodtoprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.domain\\entities\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|solutionrelative:download.domain\\entities\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.crosscutting\\ioc\\dependencyinjectionapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|solutionrelative:download.crosscutting\\ioc\\dependencyinjectionapiservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.crosscutting\\ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|solutionrelative:download.crosscutting\\ioc\\dependencyinjectionapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\context\\downloadsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\context\\downloadsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\downloadapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\downloadapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\identity\\seedasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\identity\\seedasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\identity\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\identity\\model\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\identity\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\identity\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\identity\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\identity\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|solutionrelative:download.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.infrastructure\\download.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E7C644EB-AAAF-FB85-BCF5-B3C2DF63A886}|Download.Infrastructure\\Download.Infrastructure.csproj|solutionrelative:download.infrastructure\\download.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\plataformmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\plataformmodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.domain\\download.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{896D9805-FF16-5070-9A07-A13614DB7D79}|Download.Domain\\Download.Domain.csproj|solutionrelative:download.domain\\download.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.crosscutting\\download.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0F180A07-92D8-2621-8080-65C2E19ECF4F}|Download.CrossCutting\\Download.CrossCutting.csproj|solutionrelative:download.crosscutting\\download.crosscutting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\download.application\\download.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{65A2B02D-7798-85F0-673F-99AE9EBF0D81}|Download.Application\\Download.Application.csproj|solutionrelative:download.application\\download.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\publicitycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\publicitycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\magazinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\magazinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\gametagscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\gametagscontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\gamemodelcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\gamemodelcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\gamecategorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\gamecategorycontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\externallinkcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\externallinkcontrollers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|e:\\projetos git curriculo\\api games\\downloadapi\\downloadapi\\controllers\\emulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF8E1CDF-1D62-2DA1-3A90-E14E9CD90AA2}|DownloadApi\\DownloadApi.csproj|solutionrelative:downloadapi\\controllers\\emulatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ce0010b1-93a1-33bb-8d9c-bcc1bf6c4873}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameTagModelDTO.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameTagModelDTO.cs",
+              "RelativeDocumentMoniker": "Download.Application\\DTOs\\GameTagModelDTO.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameTagModelDTO.cs",
+              "RelativeToolTip": "Download.Application\\DTOs\\GameTagModelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:31:36.545Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameModelDTO.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameModelDTO.cs",
+              "RelativeDocumentMoniker": "Download.Application\\DTOs\\GameModelDTO.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameModelDTO.cs",
+              "RelativeToolTip": "Download.Application\\DTOs\\GameModelDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:29:46.837Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Entities\\GameModel.cs",
+              "RelativeDocumentMoniker": "Download.Domain\\Entities\\GameModel.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Entities\\GameModel.cs",
+              "RelativeToolTip": "Download.Domain\\Entities\\GameModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:29:25.37Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjectionAPIServices.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\IoC\\DependencyInjectionAPIServices.cs",
+              "RelativeDocumentMoniker": "Download.CrossCutting\\IoC\\DependencyInjectionAPIServices.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\IoC\\DependencyInjectionAPIServices.cs",
+              "RelativeToolTip": "Download.CrossCutting\\IoC\\DependencyInjectionAPIServices.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:28:54.663Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjectionAPI.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "RelativeDocumentMoniker": "Download.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "RelativeToolTip": "Download.CrossCutting\\IoC\\DependencyInjectionAPI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:28:49.678Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Download.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Download.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:25:36.312Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Program.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Program.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Program.cs",
+              "RelativeToolTip": "DownloadApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T18:52:19.335Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModelDTOCreate.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameModelDTOCreate.cs",
+              "RelativeDocumentMoniker": "Download.Application\\DTOs\\GameModelDTOCreate.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\DTOs\\GameModelDTOCreate.cs",
+              "RelativeToolTip": "Download.Application\\DTOs\\GameModelDTOCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T03:29:59.546Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T19:14:05.633Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedAsync.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\SeedAsync.cs",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Identity\\SeedAsync.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\SeedAsync.cs",
+              "RelativeToolTip": "Download.Infrastructure\\Identity\\SeedAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T13:30:24.719Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DomainToDTOProfile.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\Mappings\\DomainToDTOProfile.cs",
+              "RelativeDocumentMoniker": "Download.Application\\Mappings\\DomainToDTOProfile.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\Mappings\\DomainToDTOProfile.cs",
+              "RelativeToolTip": "Download.Application\\Mappings\\DomainToDTOProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:33:47.348Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\Login.cs",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Identity\\Model\\Login.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\Login.cs",
+              "RelativeToolTip": "Download.Infrastructure\\Identity\\Model\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:25:55.068Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Identity\\Model\\Register.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\Register.cs",
+              "RelativeToolTip": "Download.Infrastructure\\Identity\\Model\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:26:01.89Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DownloadsDBContext.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Context\\DownloadsDBContext.cs",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Context\\DownloadsDBContext.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Context\\DownloadsDBContext.cs",
+              "RelativeToolTip": "Download.Infrastructure\\Context\\DownloadsDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:06:26.62Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Download.Infrastructure",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Download.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Download.Infrastructure.csproj",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Download.Infrastructure.csproj",
+              "RelativeToolTip": "Download.Infrastructure\\Download.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T23:47:28.056Z",
+              "OwnerCaption": "Download.Infrastructure"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DownloadApi",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\DownloadApi.csproj",
+              "RelativeDocumentMoniker": "DownloadApi\\DownloadApi.csproj",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\DownloadApi.csproj",
+              "RelativeToolTip": "DownloadApi\\DownloadApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T23:13:44.707Z",
+              "OwnerCaption": "DownloadApi"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\UserRole.cs",
+              "RelativeDocumentMoniker": "Download.Infrastructure\\Identity\\Model\\UserRole.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Infrastructure\\Identity\\Model\\UserRole.cs",
+              "RelativeToolTip": "Download.Infrastructure\\Identity\\Model\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T21:26:06.892Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\StorageController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\StorageController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:04:28.806Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DownloadApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DownloadApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-23T18:51:35.541Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlataformModelsController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PlataformModelsController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\PlataformModelsController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PlataformModelsController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\PlataformModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:03:40.939Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Download.Application",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\Download.Application.csproj",
+              "RelativeDocumentMoniker": "Download.Application\\Download.Application.csproj",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Application\\Download.Application.csproj",
+              "RelativeToolTip": "Download.Application\\Download.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T23:47:27.343Z",
+              "OwnerCaption": "Download.Application"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Download.CrossCutting",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\Download.CrossCutting.csproj",
+              "RelativeDocumentMoniker": "Download.CrossCutting\\Download.CrossCutting.csproj",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.CrossCutting\\Download.CrossCutting.csproj",
+              "RelativeToolTip": "Download.CrossCutting\\Download.CrossCutting.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T23:47:27.955Z",
+              "OwnerCaption": "Download.CrossCutting"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Download.Domain",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Download.Domain.csproj",
+              "RelativeDocumentMoniker": "Download.Domain\\Download.Domain.csproj",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\Download.Domain\\Download.Domain.csproj",
+              "RelativeToolTip": "Download.Domain\\Download.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-23T23:47:28.004Z",
+              "OwnerCaption": "Download.Domain"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PublicityControllers.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PublicityControllers.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\PublicityControllers.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PublicityControllers.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\PublicityControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:03:54.342Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\PostsController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:03:47.392Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\appsettings.json",
+              "RelativeDocumentMoniker": "DownloadApi\\appsettings.json",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\appsettings.json",
+              "RelativeToolTip": "DownloadApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-23T18:51:47.022Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MagazineController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\MagazineController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\MagazineController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\MagazineController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\MagazineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:03:33.501Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameTagsControllers.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameTagsControllers.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\GameTagsControllers.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameTagsControllers.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\GameTagsControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:03:23.482Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GameModelControllers.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameModelControllers.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\GameModelControllers.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameModelControllers.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\GameModelControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:02:50.375Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GameCategoryControllers.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameCategoryControllers.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\GameCategoryControllers.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\GameCategoryControllers.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\GameCategoryControllers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:02:38.921Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExternalLinkControllers.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\ExternalLinkControllers.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\ExternalLinkControllers.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\ExternalLinkControllers.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\ExternalLinkControllers.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:01:56.885Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EmulatorController.cs",
+              "DocumentMoniker": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\EmulatorController.cs",
+              "RelativeDocumentMoniker": "DownloadApi\\Controllers\\EmulatorController.cs",
+              "ToolTip": "E:\\PROJETOS GIT CURRICULO\\Api games\\DownloadApi\\DownloadApi\\Controllers\\EmulatorController.cs",
+              "RelativeToolTip": "DownloadApi\\Controllers\\EmulatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T19:01:06.84Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
